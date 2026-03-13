@@ -1,0 +1,89 @@
+p{
+    color:blue;
+    font-size: 16px;
+}
+h1 {
+    color: aquamarine;
+    font-size: 30px;
+}
+h2{
+    color: brown;
+    font-size: 25px;
+
+}
+h3{
+    color: blueviolet;
+    font-size: 25px;
+}
+h4{
+    color: blanchedalmond;
+    font-size: 22px;
+}
+h5{
+    color: antiquewhite;
+    font-size: 16px;
+}
+h6{
+    color: aqua;
+    font-size: 16px;
+}
+ol{
+    color: aliceblue;
+    font-size: 30px;
+}
+ul{
+    color: azure;
+    font-size: 10px;
+}
+li{
+    color: beige;
+    font-size: 10px;
+}
+div{
+    color: bisque;
+    font-size: 40px;
+}
+span{
+    color: black;
+    font-size: 30px;
+}
+img{
+    color: blanchedalmond;
+    font-size: 40px;
+}
+a{
+    color: blue;
+    font-size: 40px;
+}
+main{
+    color: azure;
+    font-size: 50px;
+}
+article{
+    color: brown;
+    font-size: 60px;
+}
+section{
+    color: azure;
+    font-size: 50px;
+}
+footer{ 
+    color: blueviolet;
+    font-size: 80px;
+}
+header{
+    color: antiquewhite;
+    font-size: 40px;
+}
+nav{
+    color: beige;
+    font-size: 20px;
+}
+strong{
+    color: aliceblue;
+    font-size: 10px;
+}
+em{
+    color: aquamarine;
+    font-size: 40px;
+}
